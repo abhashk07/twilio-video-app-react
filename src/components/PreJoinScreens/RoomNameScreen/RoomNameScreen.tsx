@@ -71,7 +71,7 @@ export default function RoomNameScreen({ name, roomName, setName, setRoomName, h
                 variant="outlined"
                 fullWidth
                 size="small"
-                value={name}
+                value={'Abhash' }
                 onChange={handleNameChange}
               />
             </div>
